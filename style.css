@@ -40,4 +40,19 @@
     opacity: 0.8;
     /* display: none; */
 }
+
+@media screen and (max-width: 600px)  {
+    #clockContainer{
+        top: 50vw;
+        height: 80vw;
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 912px)  {
+    #clockContainer{
+        top: 35vw;
+        height: 80vw;
+        width: 80vw;
+    }
+}
    
